@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="68e6d545-4aae-4224-9456-0a2c2c1c19f1" name="Default" comment="">
+    <list default="true" id="68e6d545-4aae-4224-9456-0a2c2c1c19f1" name="Default" comment="Init commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mydemo" beforeDir="false" afterPath="$PROJECT_DIR$/mydemo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mydemo/.angular-cli.json" beforeDir="false" afterPath="$PROJECT_DIR$/mydemo/.angular-cli.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mydemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/mydemo/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mydemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/mydemo/package.json" afterDir="false" />
@@ -60,8 +63,8 @@
       <file leaf-file-name="school.component.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mydemo/src/app/school/school.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="304">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -209,22 +212,21 @@
       <workItem from="1523375035184" duration="995000" />
       <workItem from="1523376419320" duration="824000" />
       <workItem from="1523377275842" duration="116000" />
-      <workItem from="1523456106125" duration="48223000" />
+      <workItem from="1523456106125" duration="48868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50365000" />
+    <option name="totallyTimeSpent" value="51010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-264" width="1296" height="1000" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TypeScript" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.29650238" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49769586" visible="true" weight="0.29650238" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32949308" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="npm" order="2" sideWeight="0.50230414" side_tool="true" weight="0.29650238" />
@@ -251,6 +253,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mydemo/src/app/server/server.component.ts">
@@ -551,8 +557,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mydemo/src/app/school/school.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="304">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
         </state>
       </provider>
     </entry>
